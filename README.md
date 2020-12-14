@@ -1,1 +1,2 @@
-# E-Cuti-Pegawai Menggunakan Framework CodeIgniter
+# E-Cuti-Pegawai
+# Using Framework CodeIgniter
